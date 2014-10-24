@@ -1,0 +1,2 @@
+c:\users\文颉\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\文颉\工作区\LocalRepositorys\WeiMT\Test\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
